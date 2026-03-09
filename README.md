@@ -1,0 +1,2 @@
+# Add-a-modern-Streamlit-UI-that-looks-like-a-Bloomberg-style-dashboard.
+**AI Stock Fundamental Analyzer** is a tool that fetches real-time financial data from Yahoo Finance and analyzes key metrics like PE ratio, revenue, EPS, and debt levels. It uses AI from OpenAI to explain a company’s financial health and valuation in simple terms, helping retail investors better understand stock fundamentals.
